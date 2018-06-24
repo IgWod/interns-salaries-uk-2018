@@ -20,3 +20,5 @@ I will leave everyone to make their own conclusion, but it looks like to me some
 I hope this small research will help anyone looking for a job to negotiate a higher salary.
 ## Credits
 I got inspired by Sami’s article written some times ago [link](https://medium.com/@smi_abd/interns-in-tech-salaries-uk-9239c5812294). Also I would like to thank everyone who filled the survey.
+## Copyright
+Please feel free to use the data and share the report in any way you want to! No credits needed, but I would really appreciate it :)
