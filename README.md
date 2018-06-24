@@ -7,7 +7,7 @@ Before analysing the data I made some effort to unify it. The changes I made are
 Not much surprise here. Interns in London are paid the highest due to the high cost of living and, I suppose, because of the concretion of big fintech companies in the area. However it is sad to see some companies still pay £15000 in London that it is not enough to live in the capital.
 ![salaries by location](https://github.com/IgWod/interns-salaries-uk-2018/blob/master/salary_by_location.png)
 ## Salaries by Company
-I think no surprises here either. Fintech companies are the one paying the most. The only two exceptions are The Hut Group and Improbable (the winner in this category!). Again it is a bit disappointing to see some big names paying salaries close to the minimum wage.
+I think no surprises here either. Fintech companies are the ones paying the most. The only two exceptions are The Hut Group and Improbable (the winner in this category!). Again it is a bit disappointing to see some big names paying salaries close to the minimum wage.
 ![salaries by company](https://github.com/IgWod/interns-salaries-uk-2018/blob/master/salary_by_company.png)
 ## Bonuses
 Not much to say, the graph shows everything.
