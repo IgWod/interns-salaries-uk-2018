@@ -4,13 +4,13 @@ It seems to me that many students struggle when it comes to negotiating salaries
 ## Pre-Processing the Data
 Before analysing the data I made some effort to unify it. The changes I made are not big and a raw data can be found in this repository. For example I fixed words capitalisation and some obvious mistakes (annual salary of £38 is clearly a typo). I also blanked some ambiguous answers like “start up”, etc.
 ## Salaries by Location
-Not much surprise here. Interns in London are paid the highest due to the high cost of living and, I suppose, because of the concretion of big fintech companies in the area. However it is sad to see some companies still pay £15000 in London that it is not enough to live in the capitol.
+Not much surprise here. Interns in London are paid the highest due to the high cost of living and, I suppose, because of the concretion of big fintech companies in the area. However it is sad to see some companies still pay £15000 in London that it is not enough to live in the capital.
 ![salaries by location](https://github.com/IgWod/interns-salaries-uk-2018/blob/master/salary_by_location.png)
 ## Salaries by Company
 I think no surprises here either. Fintech companies are the one paying the most. The only two exceptions are The Hut Group and Improbable (the winner in this category!). Again it is a bit disappointing to see some big names paying salaries close to the minimum wage.
 ![salaries by company](https://github.com/IgWod/interns-salaries-uk-2018/blob/master/salary_by_company.png)
 ## Bonuses
-Not much to say the graph shows everything.
+Not much to say, the graph shows everything.
 ![bonus by company](https://github.com/IgWod/interns-salaries-uk-2018/blob/master/bonus_by_company.png)
 ## Extra comments
 I was surprised to find out some inters got a pay rise during their internship based on a good performance. Also it is nice to see that at least one company helps with relocation.
